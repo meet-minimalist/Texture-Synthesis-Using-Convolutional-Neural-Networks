@@ -4,13 +4,13 @@ Tensorflow implementation of paper - "Texture Synthesis Using Convolutional Neur
 
 #### In this notebook, we'll generate new textures based on the given texture. The output will be generated from the scratch noisy image. The steps of the process is as follows.
 
-##### _Step 1: Preprocessing the input image_
-##### _Step 2: Computing the output for all the layers for the input image._
-##### _Step 3: What is loss function in this problem and computing the loss function._
-##### _Step 4: Running Tensorflow model to minimize the loss and optimize the input noise variable._
-##### _Step 5: Post processing and displaying the image._
-##### _Step 6: Automating the stuffs_
-##### _Step 7: Plotting the successful results._
+_Step 1: Preprocessing the input image_
+_Step 2: Computing the output for all the layers for the input image._
+_Step 3: What is loss function in this problem and computing the loss function._
+_Step 4: Running Tensorflow model to minimize the loss and optimize the input noise variable._
+_Step 5: Post processing and displaying the image._
+_Step 6: Automating the stuffs_
+_Step 7: Plotting the successful results._
 
 ##### Files:
 1. helper.py - Used for pre-processing the image and post-processing the image
