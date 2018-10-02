@@ -2,7 +2,7 @@
 Tensorflow implementation of paper - "Texture Synthesis Using Convolutional Neural Networks"
 
 
-#### In this notebook, we'll generate new textures based on the given texture. The output will be generated from the scratch noisy image. The steps of the process is as follows.
+#### In this notebook, we'll generate new textures based on the given texture. The output will be generated from the scratch noisy image. The steps of the process is as follows. Also, the notebook is created to facilitate self-learning approach. 
 
 _Step 1: Preprocessing the input image_
 
