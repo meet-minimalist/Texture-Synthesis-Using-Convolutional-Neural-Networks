@@ -32,4 +32,4 @@ _Step 7: Plotting the successful results._
 1. Paper link: https://arxiv.org/abs/1505.07376
 
 2. VGG16 Tensorflow Model - https://github.com/machrisaa/tensorflow-vgg  
-  -Pre-trained VGG16 tensorflow model along with helper files. Big shoutout to the owner. Also, vgg16.npy can be downloaded from the link provided in this repository. I have modified the vgg16.py file to facilitate average pooling instead of max pooling.
+  Pre-trained VGG16 tensorflow model along with helper files. Big shoutout to the owner. Also, vgg16.npy can be downloaded from the link provided in this repository. I have modified the vgg16.py file to facilitate average pooling instead of max pooling.
