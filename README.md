@@ -18,6 +18,10 @@ _Step 6: Automating the stuffs_
 
 _Step 7: Plotting the successful results._
 
+##### Results:
+
+![](https://github.com/meet-minimalist/Texture-Synthesis-Using-Convolutional-Neural-Networks/blob/master/compiled%20results%20-%201.png)
+
 ##### Files:
 1. helper.py - Used for pre-processing the image and post-processing the image
 2. tf_helper.py - Used to compute the layer wise output for a given texture sample image
